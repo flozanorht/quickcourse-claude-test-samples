@@ -1,2 +1,3 @@
 Hello from Chapter 1 examples!
 This is a test file to verify the examples directory structure works correctly.
+Changed to see if the course gets updates.
